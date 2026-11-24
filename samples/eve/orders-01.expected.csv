@@ -1,0 +1,22 @@
+# screen: orders
+# Hand transcribed from orders-01.png. DRAFT: needs Rain's check.
+side,item,remaining_quantity,original_quantity,price,location
+sell,Berserker I,30,30,36440,Amarr VIII (Oris) - Emperor Family Academy
+sell,Shield Harmonizing Charge,300,300,594,Amarr VIII (Oris) - Emperor Family Academy
+sell,Navy Cap Booster 75,22,22,14100,Amarr VIII (Oris) - Emperor Family Academy
+sell,Berserker I,11,11,36440,Amarr VIII (Oris) - Emperor Family Academy
+sell,Navy Cap Booster 100,11,11,21500,Amarr VIII (Oris) - Emperor Family Academy
+sell,Shield Harmonizing Charge,291,291,594,Amarr VIII (Oris) - Emperor Family Academy
+sell,Inferno Precision Heavy Missile,9023,14123,788,Amarr VIII (Oris) - Emperor Family Academy
+sell,Nova Precision Heavy Missile,4359,24970,412.1,Amarr VIII (Oris) - Emperor Family Academy
+buy,Scourge Precision Heavy Missile,22522,22522,204.8,Amarr VIII (Oris) - Emperor Family Academy
+buy,Nova Fury Heavy Missile,9924,12424,293.5,Amarr VIII (Oris) - Emperor Family Academy
+buy,Nova Fury Cruise Missile,25252,25252,392,Amarr VIII (Oris) - Emperor Family Academy
+buy,Mjolnir Precision Heavy Missile,14141,14141,214,Amarr VIII (Oris) - Emperor Family Academy
+buy,Inferno Precision Heavy Missile,20115,24242,309,Amarr VIII (Oris) - Emperor Family Academy
+buy,Inferno Fury Heavy Missile,22525,22525,306,Amarr VIII (Oris) - Emperor Family Academy
+buy,Inferno Fury Cruise Missile,21212,21212,367.8,Amarr VIII (Oris) - Emperor Family Academy
+buy,Core Scanner Probe I,131,1212,6699,Amarr VIII (Oris) - Emperor Family Academy
+buy,Caldari Navy Scourge Heavy Missile,4232,4232,734,Amarr VIII (Oris) - Emperor Family Academy
+buy,Caldari Navy Scourge Heavy Assault Missile,14222,14222,915.4,Amarr VIII (Oris) - Emperor Family Academy
+buy,AE-K Compact Drone Damage Amplifier,66,77,57280,Amarr VIII (Oris) - Emperor Family Academy
