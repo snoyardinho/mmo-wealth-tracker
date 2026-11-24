@@ -1,0 +1,45 @@
+# screen: transactions
+# Hand transcribed from history-01.png. DRAFT: needs Rain's check.
+time,quantity,item,total,side,location
+2026-11-23 02:08,1000,Nova Precision Heavy Missile,412100,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-22 16:06,2000,Nova Precision Heavy Missile,824200,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-22 16:06,1280,Nova Precision Heavy Missile,527488,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-22 13:31,8,Core Scanner Probe I,53592,buy,Deepari II - Imperial Academy
+2026-11-22 11:40,7711,Scourge Fury Cruise Missile,2854612,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-22 00:37,2,Core Scanner Probe I,13398,buy,Penirgman IX - Moon 3 - Ministry of Internal Order Assembly Plant
+2026-11-22 00:03,1331,Nova Precision Heavy Missile,548505,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-21 19:44,1,AE-K Compact Drone Damage Amplifier,57280,buy,Kehour VIII - Moon 1 - Emperor Family Bureau
+2026-11-21 14:56,814,Scourge Fury Cruise Missile,301343,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-21 14:04,16,Core Scanner Probe I,107184,buy,Nererut VIII - Moon 2 - Chemal Tech Factory
+2026-11-20 18:24,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 17:46,32,Core Scanner Probe I,214368,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 16:27,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 16:27,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 15:40,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 15:40,32,Core Scanner Probe I,214368,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 11:36,32,Core Scanner Probe I,214368,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 10:32,16,Core Scanner Probe I,107184,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 10:31,8,Core Scanner Probe I,53592,buy,Deepari II - Imperial Academy
+2026-11-20 09:09,16,Core Scanner Probe I,107184,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 06:47,16,Core Scanner Probe I,107184,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 06:14,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-20 05:25,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 22:09,4324,Mjolnir Precision Cruise Missile,2287396,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 22:09,4324,Inferno Precision Cruise Missile,1730897,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 22:08,3649,Nova Precision Cruise Missile,1342832,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 19:48,21212,Scourge Auto-Targeting Cruise Missile I,3203012,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 13:39,1,AE-K Compact Drone Damage Amplifier,57280,buy,Saana III - Moon 6 - Republic Security Services Logistic Support
+2026-11-19 10:50,675,Nova Precision Cruise Missile,248400,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-19 08:31,1,AE-K Compact Drone Damage Amplifier,57280,buy,Penirgman VII - Ministry of Internal Order Assembly Plant
+2026-11-19 08:15,8,Core Scanner Probe I,53592,buy,Deepari II - Imperial Academy
+2026-11-18 13:56,11,AE-K Compact Drone Damage Amplifier,1640100,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 10:40,5000,Nova Precision Heavy Missile,2060500,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 07:51,15,Core Scanner Probe I,124500,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 07:32,400,Core Scanner Probe I,3320000,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 07:04,16,Core Scanner Probe I,132800,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 07:03,8,Core Scanner Probe I,66400,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 06:52,8,Core Scanner Probe I,66400,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 06:47,16,Core Scanner Probe I,132800,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 06:43,10,Core Scanner Probe I,83000,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-18 04:31,2,AE-K Compact Drone Damage Amplifier,114560,buy,Amarr VIII (Oris) - Moon 4 - Expert Distribution Retail Center
+2026-11-18 03:01,3,Ogre I,396600,sell,Amarr VIII (Oris) - Emperor Family Academy

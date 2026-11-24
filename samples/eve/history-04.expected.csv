@@ -1,0 +1,46 @@
+# screen: transactions
+# Hand transcribed from history-04.png. DRAFT: needs Rain's check.
+# The last row (04:14) is cut off by the bottom edge, so it is not expected.
+time,quantity,item,total,side,location
+2026-11-17 14:48,16,Core Scanner Probe I,107184,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:31,2000,Inferno Fury Heavy Missile,1142200,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 12:37,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 12:20,16,Core Scanner Probe I,107184,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 12:20,1,Berserker I,20510,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 12:16,33,Core Scanner Probe I,221067,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 12:06,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 11:36,6,Berserker I,123060,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 11:36,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 11:36,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 10:57,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 10:55,5,Hornet EC-300,27800,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 10:39,1323,Mjolnir Precision Heavy Missile,658060,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 10:38,2000,Nova Fury Heavy Missile,1019800,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 10:37,4071,Inferno Fury Heavy Missile,2324948,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 09:47,12630,Mjolnir Fury Heavy Missile,6681270,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 08:27,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 08:09,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 08:09,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 08:05,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:56,1,Berserker I,20510,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:48,4,Core Scanner Probe I,33568,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:43,2,Ogre I,111700,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:28,44,Ogre I,5240400,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:10,2,Curator II,3286000,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:09,25,Shield Harmonizing Charge,14843,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:08,1,Ogre I,55850,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:08,4960,Nova Fury Heavy Missile,2529104,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:05,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 06:01,8,Core Scanner Probe I,53592,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:54,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:45,20,Navy Cap Booster 25,108880,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:45,55,Navy Cap Booster 25,298595,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:28,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:12,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:08,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 05:06,1412,Shield Harmonizing Charge,838304,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 04:50,5000,Inferno Precision Heavy Missile,3990500,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 04:49,4000,Scourge Precision Heavy Missile,1672400,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 04:30,910,Mjolnir Precision Heavy Missile,452634,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 04:29,16,Core Scanner Probe I,134272,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 04:20,1,Concussion Bomb,1483000,sell,Amarr VIII (Oris) - Emperor Family Academy

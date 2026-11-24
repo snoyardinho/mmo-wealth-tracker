@@ -1,0 +1,23 @@
+# screen: transactions
+# Hand transcribed from history-03.png. DRAFT: needs Rain's check.
+# The first row touches the top edge but every cell is readable, so it is expected.
+time,quantity,item,total,side,location
+2026-11-17 16:20,16,Berserker I,328160,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:18,5,Hornet EC-300,49500,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:18,1931,Inferno Fury Heavy Missile,581617,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:18,4514,Inferno Fury Heavy Missile,2578397,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:17,700,Scourge Auto-Targeting Cruise Missile I,102200,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:17,100,Scourge Auto-Targeting Cruise Missile I,14600,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:15,7,Praetor I,490350,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:10,100,Inferno Precision Heavy Missile,78800,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 16:05,5,Hornet EC-300,27855,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 15:51,2,Berserker I,41020,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 15:27,24,Core Scanner Probe I,160776,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 15:10,150,Nova Rage Rocket,4217,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 15:08,3298,Scourge Fury Cruise Missile,1220590,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 15:08,216,Scourge Fury Cruise Missile,79942,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:49,6087,Scourge Precision Heavy Missile,2544975,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:49,3,Berserker I,61530,buy,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:49,7000,Nova Precision Heavy Missile,2884700,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:49,3253,Nova Fury Heavy Missile,1658705,sell,Amarr VIII (Oris) - Emperor Family Academy
+2026-11-17 14:49,1817,Inferno Fury Heavy Missile,1037689,sell,Amarr VIII (Oris) - Emperor Family Academy

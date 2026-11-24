@@ -1,0 +1,80 @@
+# EVE Online adapter.
+# Describes the screens we read and how their cells turn into the shared records.
+# Adding a game = writing a file like this one, plus sample screenshots and answer files.
+
+game: eve
+name: EVE Online
+currency: ISK
+
+screens:
+  transactions:
+    makes: fill
+    looks_like: >-
+      The wallet Transactions tab: a table with the columns Date, Quantity, Type,
+      Unit Price, Total, Client and Where. Totals are red with a minus sign for
+      purchases and green without a sign for sales. There may be filter controls
+      above the table and a "Showing 1-100 of N" pager below it.
+    columns:
+      - {name: date, header: Date, hint: "like 2026.11.17 14:48"}
+      - {name: quantity, header: Quantity}
+      - {name: type, header: Type, hint: "the item name"}
+      - {name: unit_price, header: Unit Price}
+      - {name: total, header: Total, hint: "keep the minus sign if there is one"}
+      - {name: where, header: Where, hint: "the full station name"}
+    # Client holds other players' names. We never read or store it.
+    skip_columns: [Client]
+    observations:
+      - {name: total_color, values: [red, green, other], hint: "colour of the Total text"}
+    fields:
+      time: {from: date, parse: datetime, format: "%Y.%m.%d %H:%M"}
+      quantity: {from: quantity, parse: int}
+      item: {from: type, parse: text}
+      total: {from: total, parse: number, absolute: true}
+      side: {from: total, parse: sign, negative: buy, positive: sell}
+      shown_unit_price: {from: unit_price, parse: number}
+      location: {from: where, parse: text}
+    # The unit price on screen is rounded to whole ISK; the total is exact.
+    derive:
+      unit_price: total / quantity
+    checks:
+      - name: side_matches_colour
+        observation: total_color
+        expect: {buy: red, sell: green}
+      - name: shown_unit_price_close
+        # shown price * quantity must be within rounding of the total
+        tolerance_per_unit: 1.0
+      - name: time_not_increasing
+    row_key: [time, quantity, item, total, side, location]
+
+  orders:
+    makes: order_snapshot
+    looks_like: >-
+      The Market Orders screen: a section titled Selling and a section titled Buying.
+      Columns include Type, Quantity (shown as remaining/original, like 9,023/14,123),
+      Price, Station, Region, and Expires in. The Buying section also has Range and
+      Min volume.
+    sections:
+      Selling: sell
+      Buying: buy
+    columns:
+      - {name: type, header: Type}
+      - {name: quantity, header: Quantity, hint: "copy both numbers with the slash"}
+      - {name: price, header: Price}
+      - {name: station, header: Station}
+      - {name: expires_in, header: Expires in}
+    skip_columns: [Region, Range, Min volume]
+    fields:
+      item: {from: type, parse: text}
+      remaining_quantity: {from: quantity, parse: ratio_first}
+      original_quantity: {from: quantity, parse: ratio_second}
+      price: {from: price, parse: number}
+      location: {from: station, parse: text}
+      expires_in: {from: expires_in, parse: text}
+    order_key: [item, side, location, original_quantity]
+
+# Fee rules with the date they start, so old trades keep old rates.
+# Placeholders: replace with Rain's real rates at Amarr.
+fees:
+  - since: "2025-03-12"
+    broker_fee_pct: 3.0
+    sales_tax_pct: 7.5
